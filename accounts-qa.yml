@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+  accounts:
+  message: "Welcome to Banking Application accounts related QA APIs"
+  contactDetails:
+    name: "Tina Kesh - QA Lead"
+    email: "tinaKesh37@gmail.com"
+  onCallSupport:
+    -(555)255-1233
+    -(555)513-1365

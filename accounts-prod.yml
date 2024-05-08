@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+  accounts:
+  message: "Welcome to Banking Application accounts related prod APIs"
+  contactDetails:
+    name: "Tina Roy - Product Owner"
+    email: "tinaroy23@gmail.com"
+  onCallSupport:
+    -(555)255-1233
+    -(555)513-1365
