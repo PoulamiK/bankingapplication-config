@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
   accounts:
-  message: "Welcome to Banking Application accounts related prod APIs"
+  message: "Welcome to Banking Application accounts related production APIs"
   contactDetails:
     name: "Tina Roy - Product Owner"
     email: "{cipher}1c172117b58806cf92340c0a9e7e477035739d4c2b587991cc4590dbdc9bdfae81a572babab78718c17fab8100abd4f1"
